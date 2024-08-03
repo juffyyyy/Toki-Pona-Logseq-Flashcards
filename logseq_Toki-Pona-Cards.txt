@@ -1,0 +1,1676 @@
+- a #card
+	- ![image](../assets/NRf4Sx2.png)  
+	  *interj* ah, ha, uh, oh, ooh, aw, well (emotion word)  
+- *interj* ah, ha, uh, oh, ooh, aw, well (emotion word) #card
+	- a  
+	  ![image](../assets/NRf4Sx2.png)  
+- akesi #card
+	- ![image](../assets/d8qOQlT.png)  
+	  *noun* non-cute animal; reptile, amphibian  
+	  *noun* creeping animal, a scaly or slimy animal that creeps on land  
+	  *noun* reptile, any air-breathing cold-blooded animal that crawls on land and has scales and bones; reptile  
+	  *noun* amphibian, any cold-blooded animal with bones that lives on both land and in water; amphibian  
+	  *noun* large arthropod, a large arthropod that lives on land; scorpion  
+	  *describer* like an akesi in appearance  
+	  *describer* having the characteristics or properties of an akesi  
+- *noun* non-cute animal; reptile, amphibian  
+    *noun* creeping animal, a scaly or slimy animal that creeps on land  
+    *noun* reptile, any air-breathing cold-blooded animal that crawls on land and has scales and bones; reptile  
+    *noun* amphibian, any cold-blooded animal with bones that lives on both land and in water; amphibian  
+    *noun* large arthropod, a large arthropod that lives on land; scorpion  
+    *describer* like an akesi in appearance  
+    *describer* having the characteristics or properties of an akesi #card  
+	- akesi  
+	  ![image](../assets/d8qOQlT.png)  
+- ala #card
+	- ![image](../assets/OIw18Yp.png)  
+	  *mod* no, not, none, un-  
+	  *n* nothing, negation, zero  
+	  *interj* no!  
+- *mod* no, not, none, un-  
+    *n* nothing, negation, zero  
+    *interj* no! #card  
+	- ala  
+	  ![image](../assets/OIw18Yp.png)  
+- alasa #card
+	- ![image](../assets/h5OnfSh.png)  
+	  *transitive verb* to gather, to collect food, resources or material needed for daily life and survival; to gather, harvest  
+	  *transitive verb* to hunt, to pursue and kill animals to use as food and clothing; to hunt  
+- *transitive verb* to gather, to collect food, resources or material needed for daily life and survival; to gather, harvest  
+    *transitive verb* to hunt, to pursue and kill animals to use as food and clothing; to hunt #card  
+	- alasa  
+	  ![image](../assets/h5OnfSh.png)  
+- ali (old form: ale) #card
+	- ![image](../assets/IM5GYst.png)  
+	  *n* everything, anything, life, the universe  
+	  *mod* all, every, complete, whole  
+- *n* everything, anything, life, the universe  
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T22:00:00.000Z
+  card-last-reviewed:: 2024-08-03T09:40:13.841Z
+  card-last-score:: 1
+    *mod* all, every, complete, whole #card  
+	- ali (old form: ale)  
+	  ![image](../assets/IM5GYst.png)  
+- anpa #card
+	- ![image](../assets/83IMdCW.png)  
+	  *n* bottom, lower part, under, below, floor, beneath  
+	  *mod* low, lower, bottom, down  
+	  *describer* humble, lowly, dependent  
+- *n* bottom, lower part, under, below, floor, beneath  
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T22:00:00.000Z
+  card-last-reviewed:: 2024-08-03T09:40:12.314Z
+  card-last-score:: 1
+    *mod* low, lower, bottom, down  
+    *describer* humble, lowly, dependent #card  
+	- anpa  
+	  ![image](../assets/83IMdCW.png)  
+- ante #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T22:00:00.000Z
+  card-last-reviewed:: 2024-08-03T09:40:09.904Z
+  card-last-score:: 1
+	- ![image](../assets/XOUJJNf.png)  
+	  *n* difference  
+	  *mod* different  
+	  *conj* otherwise, or else  
+	  *vt* change, alter, modify  
+- *n* difference  
+    *mod* different  
+    *conj* otherwise, or else  
+    *vt* change, alter, modify #card  
+	- ante  
+	  ![image](../assets/XOUJJNf.png)  
+- anu #card
+	- ![image](../assets/7XdkiBt.png)  
+	  *conj* or  
+- *conj* or #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T22:00:00.000Z
+  card-last-reviewed:: 2024-08-03T09:40:16.434Z
+  card-last-score:: 1
+	- anu  
+	  ![image](../assets/7XdkiBt.png)  
+- awen #card
+	- ![image](../assets/RT79z1g.png)  
+	  *vi* stay, wait, remain  
+	  *vt* keep  
+	  *mod* remaining, stationary, permanent, sedentary  
+- *vi* stay, wait, remain  
+    *vt* keep  
+    *mod* remaining, stationary, permanent, sedentary #card  
+	- awen  
+	  ![image](../assets/RT79z1g.png)  
+- e #card
+	- ![image](../assets/VmhCVyL.png)  
+	  *sep* (introduces a direct object)  
+- *sep* (introduces a direct object) #card
+	- e  
+	  ![image](../assets/VmhCVyL.png)  
+- en #card
+	- ![image](../assets/JumDxOs.png)  
+	  *conj* and (used to coordinate head nouns)  
+- *conj* and (used to coordinate head nouns) #card
+	- en  
+	  ![image](../assets/JumDxOs.png)  
+- esun #card
+	- ![image](../assets/vVB4GKL.png)  
+	  *noun* market, shop, fair, bazaar, business transaction  
+- *noun* market, shop, fair, bazaar, business transaction #card
+	- esun  
+	  ![image](../assets/vVB4GKL.png)  
+- ijo #card
+	- ![image](../assets/mPsLyve.png)  
+	  *n* thing, something, stuff, anything, object  
+	  *mod* of something  
+	  *vt* objectify  
+- *n* thing, something, stuff, anything, object  
+  *mod* of something  
+  *vt* objectify #card  
+	- ijo  
+	  ![image](../assets/mPsLyve.png)  
+- ike #card
+  card-last-interval:: 4
+  card-repeats:: 1
+  card-ease-factor:: 2.36
+  card-next-schedule:: 2024-08-07T10:32:46.220Z
+  card-last-reviewed:: 2024-08-03T10:32:46.220Z
+  card-last-score:: 3
+	- ![image](../assets/GkVlS3R.png)  
+	  *mod* bad, negative, wrong, evil, overly complex, (figuratively) unhealthy  
+	  *interj* oh dear! woe! alas!  
+	  *n* negativity, badness, evil  
+	  *vt* to make bad, to worsen, to have a negative effect upon  
+	  *vi* to be bad, to suck  
+- *mod* bad, negative, wrong, evil, overly complex, (figuratively) unhealthy  
+  *interj* oh dear! woe! alas!  
+  *n* negativity, badness, evil  
+  *vt* to make bad, to worsen, to have a negative effect upon  
+  *vi* to be bad, to suck #card  
+	- ike  
+	  ![image](../assets/GkVlS3R.png)  
+- ilo #card
+	- ![image](../assets/jfWa93E.png)  
+	  *n* tool, device, machine, thing used for a specific purpose  
+- *n* tool, device, machine, thing used for a specific purpose #card
+	- ilo  
+	  ![image](../assets/jfWa93E.png)  
+- insa #card
+	- ![image](../assets/M5DF1q2.png)  
+	  *n* inside, inner world, centre, stomach  
+	  *mod* inner, internal  
+- *n* inside, inner world, centre, stomach  
+  *mod* inner, internal #card  
+	- insa  
+	  ![image](../assets/M5DF1q2.png)  
+- jaki #card
+	- ![image](../assets/T0Xa8Zp.png)  
+	  *mod* dirty, gross, filthy  
+	  *n* dirt, pollution, garbage, filth  
+	  *vt* pollute, dirty  
+	  *interj* ew! yuck!  
+- *mod* dirty, gross, filthy  
+  *n* dirt, pollution, garbage, filth  
+  *vt* pollute, dirty  
+  *interj* ew! yuck! #card  
+	- jaki  
+	  ![image](../assets/T0Xa8Zp.png)  
+- jan #card
+	- ![image](../assets/UI9BX0Y.png)  
+	  *n* person, people, human, being, somebody, anybody  
+	  *mod* human, somebody's, personal, of people  
+	  *vt* personify, humanize, personalize  
+- *n* person, people, human, being, somebody, anybody  
+  *mod* human, somebody's, personal, of people  
+  *vt* personify, humanize, personalize #card  
+	- jan  
+	  ![image](../assets/UI9BX0Y.png)  
+- jelo #card
+	- ![image](../assets/f05Td27.png)  
+	  *mod* yellow, light green  
+- *mod* yellow, light green #card
+	- jelo  
+	  ![image](../assets/f05Td27.png)  
+- jo #card
+	- ![image](../assets/8p7GS3p.png)  
+	  *vt* have, contain  
+	  *n* having  
+	  *kama* receive, get, take, obtain  
+- *vt* have, contain  
+  *n* having  
+  *kama* receive, get, take, obtain #card  
+	- jo  
+	  ![image](../assets/8p7GS3p.png)  
+- kala #card
+	- ![image](../assets/YWS6dyA.png)  
+	  *n* fish, sea creature  
+- *n* fish, sea creature #card
+	- kala  
+	  ![image](../assets/YWS6dyA.png)  
+- kalama #card
+	- ![image](../assets/P2kGwvb.png)  
+	  *n* sound, noise, voice  
+	  *vi* make noise  
+	  *vt* sound, ring, play (an instrument)  
+- *n* sound, noise, voice  
+  *vi* make noise  
+  *vt* sound, ring, play (an instrument) #card  
+	- kalama  
+	  ![image](../assets/P2kGwvb.png)  
+- kama #card
+	- ![image](../assets/6cTw9Lc.png)  
+	  *vi* come, become, arrive, happen, pursue actions to arrive to (a certain state), manage to, start to  
+	  *n* event, happening, chance, arrival, beginning  
+	  *mod* coming, future  
+	  *vt* bring about, summon  
+- *vi* come, become, arrive, happen, pursue actions to arrive to (a certain state), manage to, start to  
+  *n* event, happening, chance, arrival, beginning  
+  *mod* coming, future  
+  *vt* bring about, summon #card  
+	- kama  
+	  ![image](../assets/6cTw9Lc.png)  
+- kasi #card
+	- ![image](../assets/Z6oWUeU.png)  
+	  *n* plant, leaf, herb, tree, wood  
+- *n* plant, leaf, herb, tree, wood #card
+	- kasi  
+	  ![image](../assets/Z6oWUeU.png)  
+- ken #card
+	- ![image](../assets/6l8a4Ro.png)  
+	  *vi* can, is able to, is allowed to, may, is possible  
+	  *n* possibility, ability, power to do things, permission  
+	  *vt* make possible, enable, allow, permit  
+	  *cont* it is possible that  
+- *vi* can, is able to, is allowed to, may, is possible  
+  *n* possibility, ability, power to do things, permission  
+  *vt* make possible, enable, allow, permit  
+  *cont* it is possible that #card  
+	- ken  
+	  ![image](../assets/6l8a4Ro.png)  
+- kepeken #card
+	- ![image](../assets/IARuxfK.png)  
+	  *vt* use, with, by means of  
+	  *prep* with  
+- *vt* use, with, by means of  
+  *prep* with #card  
+	- kepeken  
+	  ![image](../assets/IARuxfK.png)  
+- kili #card
+	- ![image](../assets/ooLV6Qx.png)  
+	  *n* fruit, pulpy vegetable, mushroom  
+- *n* fruit, pulpy vegetable, mushroom #card
+	- kili  
+	  ![image](../assets/ooLV6Qx.png)  
+- kiwen #card
+	- ![image](../assets/klx1TLt.png)  
+	  *mod* hard, solid, stone-like, made of stone or metal  
+	  *n* hard thing, rock, stone, metal, mineral, clay  
+- *mod* hard, solid, stone-like, made of stone or metal  
+  *n* hard thing, rock, stone, metal, mineral, clay #card  
+	- kiwen  
+	  ![image](../assets/klx1TLt.png)  
+- ko #card
+	- ![image](../assets/7UJEeHk.png)  
+	  *n* semi-solid or squishy substance, e.g. paste, powder, gum  
+- *n* semi-solid or squishy substance, e.g. paste, powder, gum #card
+	- ko  
+	  ![image](../assets/7UJEeHk.png)  
+- kon #card
+	- ![image](../assets/rlRzEVB.png)  
+	  *n* air, wind, smell, soul, breath, essence, spirit, hidden reality  
+	  *mod* air-like, ethereal, gaseous  
+- *n* air, wind, smell, soul, breath, essence, spirit, hidden reality  
+  *mod* air-like, ethereal, gaseous #card  
+	- kon  
+	  ![image](../assets/rlRzEVB.png)  
+- **kule** #card
+	- ![image](../assets/0MN43Ix.png)  
+	  *n* colour, paint  
+	  *mod* colourful  
+	  *vt* colour, paint  
+- *n* colour, paint  
+  *mod* colourful  
+  *vt* colour, paint #card  
+	- kule  
+	  ![image](../assets/0MN43Ix.png)  
+- **kulupu** #card
+	- ![image](../assets/f5PczSr.png)  
+	  *n* group, community, society, company, people  
+	  *mod* communal, shared, public, of the society  
+- *n* group, community, society, company, people  
+  *mod* communal, shared, public, of the society #card  
+	- kulupu  
+	  ![image](../assets/f5PczSr.png)  
+- **kute** #card
+	- ![image](../assets/JdEWi3i.png)  
+	  *n* ear  
+	  *vt* listen, hear, pay attention, obey  
+	  *mod* auditory, hearing  
+- *n* ear  
+  *vt* listen, hear, pay attention, obey  
+  *mod* auditory, hearing #card  
+	- kute  
+	  ![image](../assets/JdEWi3i.png)  
+- **la** #card
+	- ![image](../assets/7cPgnqw.png)  
+	  *sep* (between adverb or phrase of context and sentence)  
+- *sep* (between adverb or phrase of context and sentence) #card
+	- la  
+	  ![image](../assets/7cPgnqw.png)  
+- **lape** #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T22:00:00.000Z
+  card-last-reviewed:: 2024-08-03T10:30:45.195Z
+  card-last-score:: 1
+	- ![image](../assets/MLavtsq.png)  
+	  *n, vi* sleep, rest  
+	  *mod* sleeping, of sleep  
+- *n, vi* sleep, rest  
+  *mod* sleeping, of sleep #card  
+	- lape  
+	  ![image](../assets/MLavtsq.png)  
+- **laso** #card
+	- ![image](../assets/apdzCm9.png)  
+	  blue, green  
+- blue, green #card
+	- laso  
+	  ![image](../assets/apdzCm9.png)  
+- **lawa** #card
+	- ![image](../assets/RhKNHqr.png)  
+	  *n* head, mind  
+	  *mod* main, leading, in charge  
+	  *vt* lead, control, rule, steer  
+- *n* head, mind  
+  *mod* main, leading, in charge  
+  *vt* lead, control, rule, steer #card  
+	- lawa  
+	  ![image](../assets/RhKNHqr.png)  
+- **len** #card
+	- ![image](../assets/BnSgrqL.png)  
+	  *n* clothing, cloth, fabric, cover, layer of privacy  
+- *n* clothing, cloth, fabric, cover, layer of privacy #card
+	- len  
+	  ![image](../assets/BnSgrqL.png)  
+- **lete** #card
+	- ![image](../assets/6WNpNMs.png)  
+	  *n* cold  
+	  *mod* cold, uncooked  
+	  *vt* cool down, chill  
+- *n* cold  
+  *mod* cold, uncooked  
+  *vt* cool down, chill #card  
+	- lete  
+	  ![image](../assets/6WNpNMs.png)  
+- **li** #card
+	- ![image](../assets/Z03s7Cr.png)  
+	  *sep* (between any subject except [mi] alone or [sina] alone and its verb; also to introduce a new verb for the same subject)  
+- *sep* (between any subject except [mi] alone or [sina] alone and its verb; also to introduce a new verb for the same subject) #card
+	- li  
+	  ![image](../assets/Z03s7Cr.png)  
+- **lili** #card
+	- ![image](../assets/GpnJk0X.png)  
+	  *mod* small, little, young, a bit, short, few, less  
+	  *vt* reduce, shorten, shrink, lessen  
+- *mod* small, little, young, a bit, short, few, less  
+  *vt* reduce, shorten, shrink, lessen #card  
+	- lili  
+	  ![image](../assets/GpnJk0X.png)  
+- **linja** #card
+	- ![image](../assets/bzso5AN.png)  
+	  *n* long, very thin, floppy thing, e.g. string, rope, hair, thread, cord, chain, yarn  
+- *n* long, very thin, floppy thing, e.g. string, rope, hair, thread, cord, chain, yarn #card
+	- linja  
+	  ![image](../assets/bzso5AN.png)  
+- **lipu** #card
+	- ![image](../assets/omJ32Yu.png)  
+	  *n* flat and bendable thing, e.g. paper, card, ticket; book, document, record, website  
+- *n* flat and bendable thing, e.g. paper, card, ticket; book, document, record, website #card
+	- lipu  
+	  ![image](../assets/omJ32Yu.png)  
+- **loje** #card
+	- ![image](../assets/uGtrg38.png)  
+	  *mod* red, reddish  
+- *mod* red, reddish #card
+	- loje  
+	  ![image](../assets/uGtrg38.png)  
+- **lon** #card
+	- ![image](../assets/EZeHWYE.png)  
+	  *prep* be (located) in/at/on  
+	  *vi* be there, be present, be real/true, exist, be awake  
+- *prep* be (located) in/at/on  
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T22:00:00.000Z
+  card-last-reviewed:: 2024-08-03T10:33:09.103Z
+  card-last-score:: 1
+  *vi* be there, be present, be real/true, exist, be awake #card  
+	- lon  
+	  ![image](../assets/EZeHWYE.png)  
+- **luka** #card
+	- ![image](../assets/lwGYgj9.png)  
+	  *n* hand, arm  
+- *n* hand, arm #card
+	- luka  
+	  ![image](../assets/lwGYgj9.png)  
+- **lukin (also oko)** #card
+	- ![image](../assets/WJIrJdc.png)  
+	  *n* eye  
+	  *vt* see, look at, watch, read  
+	  *vi* look, watch out, pay attention  
+	  *mod* visual(ly)  
+	  to seek, look for, try to  
+- *n* eye  
+  *vt* see, look at, watch, read  
+  *vi* look, watch out, pay attention  
+  *mod* visual(ly)  
+  to seek, look for, try to #card  
+	- lukin (also oko)  
+	  ![image](../assets/WJIrJdc.png)  
+- **lupa** #card
+	- ![image](../assets/rdXdXBM.png)  
+	  *n* hole, orifice, window, door  
+- *n* hole, orifice, window, door #card
+	- lupa  
+	  ![image](../assets/rdXdXBM.png)  
+- ma #card
+	- ![image](../assets/l9RUYPB.png)  
+	  *n* land, earth, country, (outdoor) area  
+- *n* land, earth, country, (outdoor) area #card
+	- ma  
+	  ![image](../assets/l9RUYPB.png)  
+- mama #card
+	- ![image](../assets/paste-132521215918081.jpg)  
+	  *n* parent, mother, father, originator, creator  
+	  *mod* of the parent, parental, maternal, fatherly  
+- *n* parent, mother, father, originator, creator  
+  *mod* of the parent, parental, maternal, fatherly #card  
+	- mama  
+	  ![image](../assets/paste-132521215918081.jpg)  
+- mani #card
+	- ![image](../assets/paste-134355166953473.jpg)  
+	  *n* money, material wealth, currency, dollar, capital  
+- *n* money, material wealth, currency, dollar, capital #card
+	- mani  
+	  ![image](../assets/paste-134355166953473.jpg)  
+- meli #card
+	- ![image](../assets/paste-136180528054273.jpg)  
+	  *n* woman, female, girl, wife, girlfriend  
+	  *mod* female, feminine, womanly  
+- *n* woman, female, girl, wife, girlfriend  
+  *mod* female, feminine, womanly #card  
+	- meli  
+	  ![image](../assets/paste-136180528054273.jpg)  
+- mi #card
+	- ![image](../assets/paste-138035953926145.jpg)  
+	  *n* I, we, us  
+	  *mod* my, our  
+- *n* I, we, us  
+  *mod* my, our #card  
+	- mi  
+	  ![image](../assets/paste-138035953926145.jpg)  
+- mije #card
+	- ![image](../assets/paste-139869904961537.jpg)  
+	  *n* man, male, boy, husband, boyfriend  
+	  *mod* male, masculine, manly  
+- *n* man, male, boy, husband, boyfriend  
+  *mod* male, masculine, manly #card  
+	- mije  
+	  ![image](../assets/paste-139869904961537.jpg)  
+- moku #card
+	- ![image](../assets/paste-141703855996929.jpg)  
+	  *n* food, meal  
+	  *vt* eat, drink, swallow, ingest, consume  
+- *n* food, meal  
+  *vt* eat, drink, swallow, ingest, consume #card  
+	- moku  
+	  ![image](../assets/paste-141703855996929.jpg)  
+- moli #card
+	- ![image](../assets/paste-143537807032321.jpg)  
+	  *n* death  
+	  *vi* die, be dead  
+	  *vt* kill  
+	  *mod* dead, deadly, fatal  
+- *n* death  
+  *vi* die, be dead  
+  *vt* kill  
+  *mod* dead, deadly, fatal #card  
+	- moli  
+	  ![image](../assets/paste-143537807032321.jpg)  
+- monsi #card
+	- ![image](../assets/paste-145393232904193.jpg)  
+	  *n* back, rear end, butt, behind  
+	  *mod* back, rear  
+- *n* back, rear end, butt, behind  
+  *mod* back, rear #card  
+	- monsi  
+	  ![image](../assets/paste-145393232904193.jpg)  
+- mu #card
+	- ![image](../assets/paste-146119082377217.jpg)  
+	  *n* (animal noise or communication)  
+	  *interj* woof! meow! moo! etc. (cute animal noise)  
+- *n* (animal noise or communication)  
+  *interj* woof! meow! moo! etc. (cute animal noise) #card  
+	- mu  
+	  ![image](../assets/paste-146119082377217.jpg)  
+- mun #card
+	- ![image](../assets/paste-147961623347201.jpg)  
+	  *n* moon  
+	  *mod* lunar  
+- *n* moon  
+  *mod* lunar #card  
+	- mun  
+	  ![image](../assets/paste-147961623347201.jpg)  
+- musi #card
+	- ![image](../assets/paste-149804164317185.jpg)  
+	  *n* fun, playing, game, recreation, art, entertainment  
+	  *mod* artful, fun, recreational  
+	  *vi* play, have fun  
+	  *vt* amuse, entertain  
+- *n* fun, playing, game, recreation, art, entertainment  
+  *mod* artful, fun, recreational  
+  *vi* play, have fun  
+  *vt* amuse, entertain #card  
+	- musi  
+	  ![image](../assets/paste-149804164317185.jpg)  
+- mute #card
+	- ![image](../assets/paste-150461294313473.jpg)  
+	  *mod* many, very, much, several, a lot, abundant, numerous, more  
+	  *n* amount, quantity  
+	  *vt* make many or much  
+- *mod* many, very, much, several, a lot, abundant, numerous, more  
+  *n* amount, quantity  
+  *vt* make many or much #card  
+	- mute  
+	  ![image](../assets/paste-150461294313473.jpg)  
+- nanpa #card
+	- ![image](../assets/paste-152333900054529.jpg)  
+	  *n* number  
+	  *oth* -th (ordinal numbers)  
+- *n* number  
+  *oth* -th (ordinal numbers) #card  
+	- nanpa  
+	  ![image](../assets/paste-152333900054529.jpg)  
+- nasa #card
+	- ![image](../assets/paste-153626685210625.jpg)  
+	  *mod* silly, crazy, foolish, drunk, strange, stupid, weird  
+	  *vt* drive crazy, make weird  
+- *mod* silly, crazy, foolish, drunk, strange, stupid, weird  
+  *vt* drive crazy, make weird #card  
+	- nasa  
+	  ![image](../assets/paste-153626685210625.jpg)  
+- nasin #card
+	- ![image](../assets/paste-155460636246017.jpg)  
+	  *n* way, manner, custom, road, path, doctrine, system, method  
+- *n* way, manner, custom, road, path, doctrine, system, method #card
+	- nasin  
+	  ![image](../assets/paste-155460636246017.jpg)  
+- nena #card
+	- ![image](../assets/paste-157303177216001.jpg)  
+	  *n* bump, nose, hill, mountain, button  
+- *n* bump, nose, hill, mountain, button #card
+	- nena  
+	  ![image](../assets/paste-157303177216001.jpg)  
+- ni #card
+	- ![image](../assets/paste-159137128251393.jpg)  
+	  *mod* this, that  
+- *mod* this, that #card
+	- ni  
+	  ![image](../assets/paste-159137128251393.jpg)  
+- nimi #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T22:00:00.000Z
+  card-last-reviewed:: 2024-08-03T10:30:40.388Z
+  card-last-score:: 1
+	- ![image](../assets/paste-160971079286785.jpg)  
+	  *n* word, name  
+- *n* word, name #card
+	- nimi  
+	  ![image](../assets/paste-160971079286785.jpg)  
+- noka #card
+	- ![image](../assets/paste-162796440387585.jpg)  
+	  *n* foot, leg, organ of locomotion; bottom, lower part  
+- *n* foot, leg, organ of locomotion; bottom, lower part #card
+	- noka  
+	  ![image](../assets/paste-162796440387585.jpg)  
+- o #card
+	- ![image](../assets/paste-163440685481985.jpg)  
+	  *sep* O (vocative or imperative)  
+	  *interj* hey! (calling somebody's attention)  
+- *sep* O (vocative or imperative)  
+  *interj* hey! (calling somebody's attention) #card  
+	- o  
+	  ![image](../assets/paste-163440685481985.jpg)  
+- olin #card
+	- ![image](../assets/paste-165274636517377.jpg)  
+	  *n* love  
+	  *mod* love  
+	  *vt* to love (a person), have compassion for, respect, show affection to  
+- *n* love  
+  *mod* love  
+  *vt* to love (a person), have compassion for, respect, show affection to #card  
+	- olin  
+	  ![image](../assets/paste-165274636517377.jpg)  
+- ona #card
+	- ![image](../assets/paste-167211666767873.jpg)  
+	  *n* she, he, it, they  
+	  *mod* her, his, its, their  
+- *n* she, he, it, they  
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T22:00:00.000Z
+  card-last-reviewed:: 2024-08-03T10:31:00.200Z
+  card-last-score:: 1
+  *mod* her, his, its, their #card  
+	- ona  
+	  ![image](../assets/paste-167211666767873.jpg)  
+- open #card
+	- ![image](../assets/paste-169045617803265.jpg)  
+	  *vt* open, turn on, begin, start  
+- *vt* open, turn on, begin, start #card
+	- open  
+	  ![image](../assets/paste-169045617803265.jpg)  
+- pakala #card
+	- ![image](../assets/paste-169676977995777.jpg)  
+	  *n* blunder, accident, mistake, destruction, damage, breaking  
+	  *vt* screw up, fuck up, botch, ruin, break, hurt, injure, damage, spoil, ruin  
+	  *vi* screw up, fall apart, break  
+	  *interj* damn! fuck!  
+- *n* blunder, accident, mistake, destruction, damage, breaking  
+  *vt* screw up, fuck up, botch, ruin, break, hurt, injure, damage, spoil, ruin  
+  *vi* screw up, fall apart, break  
+  *interj* damn! fuck! #card  
+	- pakala  
+	  ![image](../assets/paste-169676977995777.jpg)  
+- pali #card
+	- ![image](../assets/paste-171523813933057.jpg)  
+	  *n* activity, work, deed, project  
+	  *mod* active, work-related, operating, working  
+	  *vt* do, make, build, create  
+	  *vi* act, work, function  
+- *n* activity, work, deed, project  
+  *mod* active, work-related, operating, working  
+  *vt* do, make, build, create  
+  *vi* act, work, function #card  
+	- pali  
+	  ![image](../assets/paste-171523813933057.jpg)  
+- palisa #card
+	- ![image](../assets/paste-173357764968449.jpg)  
+	  *n* long, mostly hard object, e.g. rod, stick, branch  
+- *n* long, mostly hard object, e.g. rod, stick, branch #card
+	- palisa  
+	  ![image](../assets/paste-173357764968449.jpg)  
+- pan #card
+	- ![image](../assets/paste-175183126069249.jpg)  
+	  *n* grain, cereal; barley, corn, oat, rice, wheat; bread, pasta  
+- *n* grain, cereal; barley, corn, oat, rice, wheat; bread, pasta #card
+	- pan  
+	  ![image](../assets/paste-175183126069249.jpg)  
+- pana #card
+	- ![image](../assets/paste-177025667039233.jpg)  
+	  *vt* give, put, send, place, release, emit, cause  
+	  *n* giving, transfer, exchange  
+- *vt* give, put, send, place, release, emit, cause  
+  *n* giving, transfer, exchange #card  
+	- pana  
+	  ![image](../assets/paste-177025667039233.jpg)  
+- pi #card
+	- ![image](../assets/paste-178885387878401.jpg)  
+	  *sep* of, belonging to  
+	  to be used for grouping of describing words, not same as English "of" grammar  
+- *sep* of, belonging to  
+  to be used for grouping of describing words, not same as English "of" grammar #card  
+	- pi  
+	  ![image](../assets/paste-178885387878401.jpg)  
+- pilin #card
+	- ![image](../assets/paste-180740813750273.jpg)  
+	  *n* feelings, emotion, heart  
+	  *vi* feel  
+	  *vt* feel, think, sense, touch  
+- *n* feelings, emotion, heart  
+  *vi* feel  
+  *vt* feel, think, sense, touch #card  
+	- pilin  
+	  ![image](../assets/paste-180740813750273.jpg)  
+- pimeja #card
+	- ![image](../assets/paste-183193240076289.jpg)  
+	  *mod* black, dark  
+	  *n* darkness, shadows  
+	  *vt* darken  
+- *mod* black, dark  
+  *n* darkness, shadows  
+  *vt* darken #card  
+	- pimeja  
+	  ![image](../assets/paste-183193240076289.jpg)  
+- pini #card
+	- ![image](../assets/paste-183824600268801.jpg)  
+	  *n* end, tip  
+	  *mod* completed, finished, past, done, ago  
+	  *vt* finish, close, end, turn off  
+- *n* end, tip  
+  *mod* completed, finished, past, done, ago  
+  *vt* finish, close, end, turn off #card  
+	- pini  
+	  ![image](../assets/paste-183824600268801.jpg)  
+- pipi #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T22:00:00.000Z
+  card-last-reviewed:: 2024-08-03T10:33:40.020Z
+  card-last-score:: 1
+	- ![image](../assets/paste-185667141238785.jpg)  
+	  *n* bug, insect, spider  
+- *n* bug, insect, spider #card
+	- pipi  
+	  ![image](../assets/paste-185667141238785.jpg)  
+- poka #card
+	- ![image](../assets/paste-187492502339585.jpg)  
+	  *n* side, hip, next to  
+	  *prep* in the accompaniment of, with  
+	  *mod* neighbouring  
+- *n* side, hip, next to  
+  *prep* in the accompaniment of, with  
+  *mod* neighbouring #card  
+	- poka  
+	  ![image](../assets/paste-187492502339585.jpg)  
+- poki #card
+	- ![image](../assets/paste-189412352720897.jpg)  
+	  *n* container, bag, bowl, box, cup, cupboard, drawer, vessel  
+- *n* container, bag, bowl, box, cup, cupboard, drawer, vessel #card
+	- poki  
+	  ![image](../assets/paste-189412352720897.jpg)  
+- pona #card
+	- ![image](../assets/paste-190048007880705.jpg)  
+	  *n* good, simplicity, positivity  
+	  *mod* good, simple, positive, nice, correct, right  
+	  *interj* great! good! thanks! OK! cool! yay!  
+	  *vt* improve, fix, repair, make good  
+- *n* good, simplicity, positivity  
+  *mod* good, simple, positive, nice, correct, right  
+  *interj* great! good! thanks! OK! cool! yay!  
+  *vt* improve, fix, repair, make good #card  
+	- pona  
+	  ![image](../assets/paste-190048007880705.jpg)  
+- sama #card
+	- ![image](../assets/paste-191929203556353.jpg)  
+	  *mod* same, similar, equal, of equal status or position  
+	  *prep* like, as, seem  
+- *mod* same, similar, equal, of equal status or position  
+  *prep* like, as, seem #card  
+	- sama  
+	  ![image](../assets/paste-191929203556353.jpg)  
+- seli #card
+	- ![image](../assets/paste-193763154591745.jpg)  
+	  *n* fire, warmth, heat  
+	  *mod* hot, warm, cooked  
+	  *vt* heat, warm up, cook  
+- *n* fire, warmth, heat  
+  *mod* hot, warm, cooked  
+  *vt* heat, warm up, cook #card  
+	- seli  
+	  ![image](../assets/paste-193763154591745.jpg)  
+- selo #card
+	- ![image](../assets/paste-195601400594433.jpg)  
+	  *n* outside, surface, skin, shell, bark, shape, peel, boundary  
+- *n* outside, surface, skin, shell, bark, shape, peel, boundary #card
+	- selo  
+	  ![image](../assets/paste-195601400594433.jpg)  
+- seme #card
+	- ![image](../assets/paste-197435351629825.jpg)  
+	  *oth* what, which, wh- (question word)  
+- *oth* what, which, wh- (question word) #card
+	- seme  
+	  ![image](../assets/paste-197435351629825.jpg)  
+- sewi #card
+	- ![image](../assets/paste-198968654954497.jpg)  
+	  *n* high, up, above, top, over, on, highest part, something elevated  
+	  *mod* superior, elevated, religious, formal, awe-inspiring, divine, sacred, supernatural  
+- *n* high, up, above, top, over, on, highest part, something elevated  
+  *mod* superior, elevated, religious, formal, awe-inspiring, divine, sacred, supernatural #card  
+	- sewi  
+	  ![image](../assets/paste-198968654954497.jpg)  
+- sijelo #card
+	- ![image](../assets/paste-200815490891777.jpg)  
+	  *n* form, body, physical state  
+- *n* form, body, physical state #card
+	- sijelo  
+	  ![image](../assets/paste-200815490891777.jpg)  
+- sike #card
+	- ![image](../assets/paste-201451146051585.jpg)  
+	  *n* circle, wheel, sphere, ball, cycle  
+	  *mod* round, cyclical  
+- *n* circle, wheel, sphere, ball, cycle  
+  *mod* round, cyclical #card  
+	- sike  
+	  ![image](../assets/paste-201451146051585.jpg)  
+- sin (or namako) #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T22:00:00.000Z
+  card-last-reviewed:: 2024-08-03T10:32:33.385Z
+  card-last-score:: 1
+	- ![image](../assets/paste-203285097086977.jpg)  
+	  *n* new thing, food additive, accessory, something extra, spice  
+	  *mod* new, fresh, another, more  
+	  *vt* renew, renovate, freshen, season, embellish, stimulate  
+- *n* new thing, food additive, accessory, something extra, spice  
+  *mod* new, fresh, another, more  
+  *vt* renew, renovate, freshen, season, embellish, stimulate #card  
+	- sin (or namako)  
+	  ![image](../assets/paste-203285097086977.jpg)  
+- sina #card
+	- ![image](../assets/paste-205720343543809.jpg)  
+	  *n* you  
+	  *mod* your  
+- *n* you  
+  *mod* your #card  
+	- sina  
+	  ![image](../assets/paste-205720343543809.jpg)  
+- sinpin #card
+	- ![image](../assets/paste-207562884513793.jpg)  
+	  *n* front, chest, torso, face, wall  
+- *n* front, chest, torso, face, wall #card
+	- sinpin  
+	  ![image](../assets/paste-207562884513793.jpg)  
+- sitelen #card
+	- ![image](../assets/paste-208194244706305.jpg)  
+	  *n* picture, image, representation, symbol, mark, writing  
+	  *vt* draw, write  
+- *n* picture, image, representation, symbol, mark, writing  
+  *vt* draw, write #card  
+	- sitelen  
+	  ![image](../assets/paste-208194244706305.jpg)  
+- sona #card
+	- ![image](../assets/paste-210028195741697.jpg)  
+	  *n* knowledge, wisdom, intelligence, understanding  
+	  *vt* know, understand, know how to  
+	  *vi* know, understand  
+	  *kama* learn, study  
+- *n* knowledge, wisdom, intelligence, understanding  
+  *vt* know, understand, know how to  
+  *vi* know, understand  
+  *kama* learn, study #card  
+	- sona  
+	  ![image](../assets/paste-210028195741697.jpg)  
+- soweli #card
+	- ![image](../assets/paste-211883621613569.jpg)  
+	  *n* animal, especially land mammal, lovable animal  
+- *n* animal, especially land mammal, lovable animal #card
+	- soweli  
+	  ![image](../assets/paste-211883621613569.jpg)  
+- suli #card
+	- ![image](../assets/paste-213721867616257.jpg)  
+	  *mod* big, tall, long, adult, important  
+	  *vt* enlarge, lengthen  
+	  *n* size  
+- *mod* big, tall, long, adult, important  
+  *vt* enlarge, lengthen  
+  *n* size #card  
+	- suli  
+	  ![image](../assets/paste-213721867616257.jpg)  
+- suno #card
+	- ![image](../assets/paste-215577293488129.jpg)  
+	  *n* sun; light, brightness, glow, radiance, shine; light source  
+- *n* sun; light, brightness, glow, radiance, shine; light source #card
+	- suno  
+	  ![image](../assets/paste-215577293488129.jpg)  
+- supa #card
+	- ![image](../assets/paste-217411244523521.jpg)  
+	  *n* horizontal surface, e.g. furniture, table, chair, pillow, floor, thing to put or rest something on  
+- *n* horizontal surface, e.g. furniture, table, chair, pillow, floor, thing to put or rest something on #card
+	- supa  
+	  ![image](../assets/paste-217411244523521.jpg)  
+- suwi #card
+	- ![image](../assets/paste-219859375882241.jpg)  
+	  *n* candy, sweet food  
+	  *mod* sweet, cute, innocent, adorable  
+	  *vt* sweeten  
+- *n* candy, sweet food  
+  *mod* sweet, cute, innocent, adorable  
+  *vt* sweeten #card  
+	- suwi  
+	  ![image](../assets/paste-219859375882241.jpg)  
+- tan #card
+	- ![image](../assets/paste-221693326917633.jpg)  
+	  *prep* from, by, because of, since  
+	  *n* origin, cause  
+- *prep* from, by, because of, since  
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T22:00:00.000Z
+  card-last-reviewed:: 2024-08-03T10:33:21.458Z
+  card-last-score:: 1
+  *n* origin, cause #card  
+	- tan  
+	  ![image](../assets/paste-221693326917633.jpg)  
+- taso #card
+	- ![image](../assets/paste-223518688018433.jpg)  
+	  *mod* only, sole  
+	  *conj* but  
+- *mod* only, sole  
+  *conj* but #card  
+	- taso  
+	  ![image](../assets/paste-223518688018433.jpg)  
+- tawa #card
+	- ![image](../assets/paste-224150048210945.jpg)  
+	  *prep* to, in order to, towards, for, until  
+	  *vi* go to, walk, travel, move, leave  
+	  *n* movement, transportation  
+	  *mod* moving, mobile  
+	  *vt* move, displace  
+- *prep* to, in order to, towards, for, until  
+  *vi* go to, walk, travel, move, leave  
+  *n* movement, transportation  
+  *mod* moving, mobile  
+  *vt* move, displace #card  
+	- tawa  
+	  ![image](../assets/paste-224150048210945.jpg)  
+- telo #card
+	- ![image](../assets/paste-225983999246337.jpg)  
+	  *n* water, liquid, juice, sauce  
+	  *vt* water, wash with water  
+	  *noun* liquid, a flowing wet substance; liquid, fluid, water  
+	  *noun* beverage, a liquid for drinking; beverage, drink, water, juice  
+	  *noun* a liquid for washing; water  
+	  *noun* body fluid, a liquid that comes out of the body; blood, milk, saliva, semen, sweat, tears, urine  
+	  *noun* body of water, an area covered with water; bay, strait, sea, lake, river, stream  
+	  *vt* to use telo on; to water, rinse, wash, wet  
+	  *describer* having the characteristics or properties of telo; wet, liquid  
+- *n* water, liquid, juice, sauce  
+  *vt* water, wash with water  
+  *noun* liquid, a flowing wet substance; liquid, fluid, water  
+  *noun* beverage, a liquid for drinking; beverage, drink, water, juice  
+  *noun* a liquid for washing; water  
+  *noun* body fluid, a liquid that comes out of the body; blood, milk, saliva, semen, sweat, tears, urine  
+  *noun* body of water, an area covered with water; bay, strait, sea, lake, river, stream  
+  *vt* to use telo on; to water, rinse, wash, wet  
+  *describer* having the characteristics or properties of telo; wet, liquid #card  
+	- telo  
+	  ![image](../assets/paste-225983999246337.jpg)  
+- tenpo #card
+	- ![image](../assets/paste-228423540670465.jpg)  
+	  *n* time, period of time, moment, duration, situation  
+- *n* time, period of time, moment, duration, situation #card
+	- tenpo  
+	  ![image](../assets/paste-228423540670465.jpg)  
+- toki #card
+	- ![image](../assets/paste-230270376607745.jpg)  
+	  *n* language, talking, speech, communication  
+	  *mod* talking, verbal  
+	  *vt* say  
+	  *vi* talk, chat, communicate  
+	  *interj* hello! hi!  
+	  *vt* to give and receive (e: information) (tawa: with); to communicate  
+	  *vt* to put together (e: thoughts or ideas); to think out  
+- *n* language, talking, speech, communication  
+  *mod* talking, verbal  
+  *vt* say  
+  *vi* talk, chat, communicate  
+  *interj* hello! hi! #card  
+	- toki  
+	  ![image](../assets/paste-230270376607745.jpg)  
+- tomo #card
+	- ![image](../assets/paste-232112917577729.jpg)  
+	  *n* indoor constructed space, e.g. house, home, room, building  
+	  *mod* urban, domestic, household, shelter, building, home, room, designated place  
+- *n* indoor constructed space, e.g. house, home, room, building  
+  *mod* urban, domestic, household #card  
+	- tomo  
+	  ![image](../assets/paste-232112917577729.jpg)  
+- tu #card
+	- ![image](../assets/paste-233955458547713.jpg)
+	  *mod* two  
+	  *n* duo, pair  
+	  *vt* double, separate/cut/divide in two  
+- *mod* two  
+  *n* duo, pair  
+  *vt* double, separate/cut/divide in two #card  
+	- tu  
+	  ![image](../assets/paste-233955458547713.jpg)  
+- unpa #card
+	- ![image](../assets/paste-235815179386881.jpg)  
+	  *n* sex, sexuality  
+	  *mod* erotic, sexual  
+	  *vt* have sex with, sleep with, fuck  
+	  *vi* have sex  
+- *n* sex, sexuality  
+  *mod* erotic, sexual  
+  *vt* have sex with, sleep with, fuck  
+  *vi* have sex #card  
+	- unpa  
+	  ![image](../assets/paste-235815179386881.jpg)  
+- uta #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T22:00:00.000Z
+  card-last-reviewed:: 2024-08-03T10:32:38.660Z
+  card-last-score:: 1
+	- ![image](../assets/paste-238241835909121.jpg)  
+	  *n* mouth, lips, oral cavity, jaw  
+	  *mod* oral  
+- *n* mouth, lips, oral cavity, jaw  
+  *mod* oral #card  
+	- uta  
+	  ![image](../assets/paste-238241835909121.jpg)  
+- utala #card
+	- ![image](../assets/paste-240075786944513.jpg)  
+	  *n* conflict, disharmony, competition, fight, war, battle, attack, blow, argument, physical or verbal violence  
+	  *vt* hit, strike, attack, compete against, challenge, fight, struggle  
+- *n* conflict, disharmony, competition, fight, war, battle, attack, blow, argument, physical or verbal violence  
+  *vt* hit, strike, attack, compete against, challenge, fight, struggle #card  
+	- utala  
+	  ![image](../assets/paste-240075786944513.jpg)  
+- walo #card
+	- ![image](../assets/paste-241909737979905.jpg)  
+	  *mod* white, light (colour)  
+	  *n* white thing or part, whiteness, lightness  
+- *mod* white, light (colour)  
+  *n* white thing or part, whiteness, lightness #card  
+	- walo  
+	  ![image](../assets/paste-241909737979905.jpg)  
+- wan #card
+	- ![image](../assets/paste-243769458819073.jpg)  
+	  *mod* one, a  
+	  *n* unit, element, particle, part, piece  
+	  *vt* unite, make one  
+- *mod* one, a  
+  *n* unit, element, particle, part, piece  
+  *vt* unite, make one #card  
+	- wan  
+	  ![image](../assets/paste-243769458819073.jpg)  
+- waso #card
+	- ![image](../assets/paste-245603409854465.jpg)  
+	  *n* bird, winged animal  
+- *n* bird, winged animal #card
+	- waso  
+	  ![image](../assets/paste-245603409854465.jpg)  
+- wawa #card
+	- ![image](../assets/paste-247458835726337.jpg)  
+	  *n* energy, strength, power  
+	  *mod* energetic, strong, fierce, intense, sure, confident  
+	  *vt* strengthen, energize, empower, intense, strong, fast, loud,(of sound) having a high volume or amplitude, condident, sure  
+- *n* energy, strength, power  
+  *mod* energetic, strong, fierce, intense, sure, confident  
+  *vt* strengthen, energize, empower, intense, strong, fast, loud,(of sound) having a high volume or amplitude, condident, sure #card  
+	- wawa  
+	  ![image](../assets/paste-247458835726337.jpg)  
+- weka #card
+	- ![image](../assets/paste-249305671663617.jpg)  
+	  *mod* away, absent, missing  
+	  *n* absence  
+	  *vt* throw away, remove, get rid of  
+- *mod* away, absent, missing  
+  *n* absence  
+  *vt* throw away, remove, get rid of #card  
+	- weka  
+	  ![image](../assets/paste-249305671663617.jpg)  
+- wile #card
+	- ![image](../assets/paste-251148212633601.jpg)  
+	  *vt* to want, need, wish, have to, must, will, should  
+	  *n* desire, need, will  
+	  *mod* necessary  
+- *vt* to want, need, wish, have to, must, will, should  
+  *n* desire, need, will  
+  *mod* necessary #card  
+	- wile  
+	  ![image](../assets/paste-251148212633601.jpg)  
+- kin #card
+	- ![image](../assets/C15VuNa.png)  
+	  *mod* also, too, even, indeed (emphasizes the word(s) before it)  
+- *mod* also, too, even, indeed (emphasizes the word(s) before it) #card
+	- kin  
+	  ![image](../assets/C15VuNa.png)  
+- namako (deprecated) #card
+	- ![image](../assets/paste-152960965279745.jpg)  
+	  *n* food additive, accessory, something extra, spice  
+	  *vt* season, embellish, stimulate  
+- *n* food additive, accessory, something extra, spice  
+  *vt* season, embellish, stimulate #card  
+	- namako (deprecated)  
+	  ![image](../assets/paste-152960965279745.jpg)  
+- oko (deprecated) #card
+	- ![image](../assets/paste-165905996709889.jpg)  
+	  *n* eye  
+- *n* eye #card
+	- oko (deprecated)  
+	  ![image](../assets/paste-165905996709889.jpg)  
+- ![image](../assets/NRf4Sx2.png) #card
+	- a  
+	  *interj* ah, ha, uh, oh, ooh, aw, well (emotion word)  
+- ![image](../assets/d8qOQlT.png) #card
+	- akesi  
+	  *noun* non-cute animal; reptile, amphibian  
+	  *noun* creeping animal, a scaly or slimy animal that creeps on land  
+	  *noun* reptile, any air-breathing cold-blooded animal that crawls on land and has scales and bones  
+	  *noun* amphibian, any cold-blooded animal with bones that lives on both land and in water  
+	  *noun* large arthropod, a large arthropod that lives on land; scorpion  
+	  *describer* like an akesi in appearance  
+	  *describer* having the characteristics or properties of an akesi  
+- ![image](../assets/OIw18Yp.png) #card
+	- ala  
+	  *mod* no, not, none, un-  
+	  *n* nothing, negation, zero  
+	  *interj* no!  
+- ![image](../assets/h5OnfSh.png) #card
+	- alasa  
+	  *transitive verb* to gather, to collect food, resources or material needed for daily life and survival; to gather, harvest  
+	  *transitive verb* to hunt, to pursue and kill animals to use as food and clothing; to hunt  
+- ![image](../assets/IM5GYst.png) #card
+	- ali (old form: ale)  
+	  *n* everything, anything, life, the universe  
+	  *mod* all, every, complete, whole  
+- ![image](../assets/83IMdCW.png) #card
+	- anba  
+	  *n* bottom, lower part, under, below, floor, beneath  
+	  *mod* low, lower, bottom, down  
+	  *describer* humble, lowly, dependent  
+- ![image](../assets/XOUJJNf.png) #card
+	- ante  
+	  *n* difference  
+	  *mod* different  
+	  *conj* otherwise, or else  
+	  *vt* change, alter, modify  
+- ![image](../assets/7XdkiBt.png) #card
+	- anu  
+	  *conj* or  
+- ![image](../assets/RT79z1g.png) #card
+	- awen  
+	  *vi* stay, wait, remain  
+	  *vt* keep  
+	  *mod* remaining, stationary, permanent, sedentary  
+- ![image](../assets/VmhCVyL.png) #card
+	- e  
+	  *sep* (introduces a direct object)  
+- ![image](../assets/JumDxOs.png) #card
+	- en  
+	  *conj* and (used to coordinate head nouns)  
+- ![image](../assets/vVB4GKL.png) #card
+	- esun  
+	  *noun* market, shop, fair, bazaar, business transaction  
+- ![image](../assets/mPsLyve.png) #card
+	- ijo  
+	  *n* thing, something, stuff, anything, object  
+	  *mod* of something  
+	  *vt* objectify  
+- ![image](../assets/GkVlS3R.png) #card
+	- ike  
+	  *mod* bad, negative, wrong, evil, overly complex, (figuratively) unhealthy  
+	  *interj* oh dear! woe! alas!  
+	  *n* negativity, badness, evil  
+	  *vt* to make bad, to worsen, to have a negative effect upon  
+	  *vi* to be bad, to suck  
+- ![image](../assets/jfWa93E.png) #card
+	- ilo  
+	  *n* tool, device, machine, thing used for a specific purpose  
+- ![image](../assets/M5DF1q2.png) #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T22:00:00.000Z
+  card-last-reviewed:: 2024-08-03T10:32:52.271Z
+  card-last-score:: 1
+	- insa  
+	  *n* inside, inner world, centre, stomach  
+	  *mod* inner, internal  
+- ![image](../assets/T0Xa8Zp.png) #card
+	- jaki  
+	  *mod* dirty, gross, filthy  
+	  *n* dirt, pollution, garbage, filth  
+	  *vt* pollute, dirty  
+	  *interj* ew! yuck!  
+- ![image](../assets/UI9BX0Y.png) #card
+	- jan  
+	  *n* person, people, human, being, somebody, anybody  
+	  *mod* human, somebody's, personal, of people  
+	  *vt* personify, humanize, personalize  
+- ![image](../assets/f05Td27.png) #card
+	- jelo  
+	  *mod* yellow, light green  
+- ![image](../assets/8p7GS3p.png) #card
+	- jo  
+	  *vt* have, contain  
+	  *n* having  
+	  *kama* receive, get, take, obtain  
+- ![image](../assets/YWS6dyA.png) #card
+	- kala  
+	  *n* fish, sea creature  
+- ![image](../assets/P2kGwvb.png) #card
+	- kalama  
+	  *n* sound, noise, voice  
+	  *vi* make noise  
+	  *vt* sound, ring, play (an instrument)  
+- ![image](../assets/6cTw9Lc.png) #card
+	- kama  
+	  *vi* come, become, arrive, happen, pursue actions to arrive to (a certain state), manage to, start to  
+	  *n* event, happening, chance, arrival, beginning  
+	  *mod* coming, future  
+	  *vt* bring about, summon  
+- ![image](../assets/Z6oWUeU.png) #card
+	- kasi  
+	  *n* plant, leaf, herb, tree, wood  
+- ![image](../assets/6l8a4Ro.png) #card
+	- ken  
+	  *vi* can, is able to, is allowed to, may, is possible  
+	  *n* possibility, ability, power to do things, permission  
+	  *vt* make possible, enable, allow, permit  
+	  *cont* it is possible that  
+- ![image](../assets/IARuxfK.png) #card
+	- kepeken  
+	  *vt* use, with, by means of  
+	  *prep* with  
+- ![image](../assets/ooLV6Qx.png) #card
+	- kili  
+	  *n* fruit, pulpy vegetable, mushroom  
+- ![image](../assets/klx1TLt.png) #card
+	- kiwen  
+	  *mod* hard, solid, stone-like, made of stone or metal  
+	  *n* hard thing, rock, stone, metal, mineral, clay  
+- ![image](../assets/7UJEeHk.png) #card
+	- ko  
+	  *n* semi-solid or squishy substance, e.g. paste, powder, gum  
+- ![image](../assets/rlRzEVB.png) #card
+	- kon  
+	  *n* air, wind, smell, soul, breath, essence, spirit, hidden reality  
+	  *mod* air-like, ethereal, gaseous  
+- ![image](../assets/0MN43Ix.png) #card
+	- kule  
+	  *n* colour, paint  
+	  *mod* colourful  
+	  *vt* colour, paint  
+- ![image](../assets/f5PczSr.png) #card
+	- kulupu  
+	  *n* group, community, society, company, people  
+	  *mod* communal, shared, public, of the society  
+- ![image](../assets/JdEWi3i.png) #card
+	- kute  
+	  *n* ear  
+	  *vt* listen, hear, pay attention, obey  
+	  *mod* auditory, hearing  
+- ![image](../assets/7cPgnqw.png) #card
+	- la  
+	  *sep* (between adverb or phrase of context and sentence)  
+- ![image](../assets/MLavtsq.png) #card
+	- lape  
+	  *n, vi* sleep, rest  
+	  *mod* sleeping, of sleep  
+- ![image](../assets/apdzCm9.png) #card
+	- laso  
+	  blue, green  
+- ![image](../assets/RhKNHqr.png) #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T22:00:00.000Z
+  card-last-reviewed:: 2024-08-03T10:32:24.345Z
+  card-last-score:: 1
+	- lawa  
+	  *n* head, mind  
+	  *mod* main, leading, in charge  
+	  *vt* lead, control, rule, steer  
+- ![image](../assets/BnSgrqL.png) #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T22:00:00.000Z
+  card-last-reviewed:: 2024-08-03T10:33:44.651Z
+  card-last-score:: 1
+	- len  
+	  *n* clothing, cloth, fabric, cover, layer of privacy  
+- ![image](../assets/6WNpNMs.png) #card
+	- lete  
+	  *n* cold  
+	  *mod* cold, uncooked  
+	  *vt* cool down, chill  
+- ![image](../assets/Z03s7Cr.png) #card
+	- li  
+	  *sep* (between any subject except [mi] alone or [sina] alone and its verb; also to introduce a new verb for the same subject)  
+- ![image](../assets/GpnJk0X.png) #card
+	- lili  
+	  *mod* small, little, young, a bit, short, few, less  
+	  *vt* reduce, shorten, shrink, lessen  
+- ![image](../assets/bzso5AN.png) #card
+	- linja  
+	  *n* long, very thin, floppy thing, e.g. string, rope, hair, thread, cord, chain, yarn  
+- ![image](../assets/omJ32Yu.png) #card
+	- lipu  
+	  *n* flat and bendable thing, e.g. paper, card, ticket; book, document, record, website  
+- ![image](../assets/uGtrg38.png) #card
+	- loje  
+	  *mod* red, reddish  
+- ![image](../assets/EZeHWYE.png) #card
+	- lon  
+	  *prep* be (located) in/at/on  
+	  *vi* be there, be present, be real/true, exist, be awake  
+- ![image](../assets/lwGYgj9.png) #card
+	- luka  
+	  *n* hand, arm  
+- ![image](../assets/WJIrJdc.png) #card
+	- lukin (also oko)  
+	  *n* eye  
+	  *vt* see, look at, watch, read  
+	  *vi* look, watch out, pay attention  
+	  *mod* visual(ly)  
+	  to seek, look for, try to  
+- ![image](../assets/rdXdXBM.png) #card
+	- lupa  
+	  *n* hole, orifice, window, door  
+- ![image](../assets/l9RUYPB.png) #card
+	- ma  
+	  *n* land, earth, country, (outdoor) area  
+- ![image](../assets/paste-132521215918081.jpg) #card
+	- mama  
+	  *n* parent, mother, father, originator, creator  
+	  *mod* of the parent, parental, maternal, fatherly  
+- ![image](../assets/paste-134355166953473.jpg) #card
+	- mani  
+	  *n* money, material wealth, currency, dollar, capital  
+- ![image](../assets/paste-136180528054273.jpg) #card
+	- meli  
+	  *n* woman, female, girl, wife, girlfriend  
+	  *mod* female, feminine, womanly  
+- ![image](../assets/paste-138035953926145.jpg) #card
+	- mi  
+	  *n* I, we, us  
+	  *mod* my, our  
+- ![image](../assets/paste-139869904961537.jpg) #card
+	- mije  
+	  *n* man, male, boy, husband, boyfriend  
+	  *mod* male, masculine, manly  
+- ![image](../assets/paste-141703855996929.jpg) #card
+	- moku  
+	  *n* food, meal  
+	  *vt* eat, drink, swallow, ingest, consume  
+- ![image](../assets/paste-143537807032321.jpg) #card
+	- moli  
+	  *n* death  
+	  *vi* die, be dead  
+	  *vt* kill  
+	  *mod* dead, deadly, fatal  
+- ![image](../assets/paste-145393232904193.jpg) #card
+	- monsi  
+	  *n* back, rear end, butt, behind  
+	  *mod* back, rear  
+- ![image](../assets/paste-146119082377217.jpg) #card
+	- mu  
+	  *n* (animal noise or communication)  
+	  *interj* woof! meow! moo! etc. (cute animal noise)  
+- ![image](../assets/paste-147961623347201.jpg) #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T22:00:00.000Z
+  card-last-reviewed:: 2024-08-03T10:33:35.197Z
+  card-last-score:: 1
+	- mun  
+	  *n* moon  
+	  *mod* lunar  
+- ![image](../assets/paste-149804164317185.jpg) #card
+	- musi  
+	  *n* fun, playing, game, recreation, art, entertainment  
+	  *mod* artful, fun, recreational  
+	  *vi* play, have fun  
+	  *vt* amuse, entertain  
+- ![image](../assets/paste-150461294313473.jpg) #card
+	- mute  
+	  *mod* many, very, much, several, a lot, abundant, numerous, more  
+	  *n* amount, quantity  
+	  *vt* make many or much  
+- ![image](../assets/paste-152333900054529.jpg) #card
+	- nanpa  
+	  *n* number  
+	  *oth* -th (ordinal numbers)  
+- ![image](../assets/paste-153626685210625.jpg) #card
+	- nasa  
+	  *mod* silly, crazy, foolish, drunk, strange, stupid, weird  
+	  *vt* drive crazy, make weird  
+- ![image](../assets/paste-155460636246017.jpg) #card
+	- nasin  
+	  *n* way, manner, custom, road, path, doctrine, system, method  
+- ![image](../assets/paste-157303177216001.jpg) #card
+	- nena  
+	  *n* bump, nose, hill, mountain, button  
+- ![image](../assets/paste-159137128251393.jpg) #card
+	- ni  
+	  *mod* this, that  
+- ![image](../assets/paste-160971079286785.jpg) #card
+	- nimi  
+	  *n* word, name  
+- ![image](../assets/paste-162796440387585.jpg) #card
+	- noka  
+	  *n* foot, leg, organ of locomotion; bottom, lower part  
+- ![image](../assets/paste-163440685481985.jpg) #card
+	- o  
+	  *sep* O (vocative or imperative)  
+	  *interj* hey! (calling somebody's attention)  
+- ![image](../assets/paste-165274636517377.jpg) #card
+	- olin  
+	  *n* love  
+	  *mod* love  
+	  *vt* to love (a person), have compassion for, respect, show affection to  
+- ![image](../assets/paste-167211666767873.jpg) #card
+	- ona  
+	  *n* she, he, it, they  
+	  *mod* her, his, its, their  
+- ![image](../assets/paste-169045617803265.jpg) #card
+	- open  
+	  *vt* open, turn on, begin, start  
+- ![image](../assets/paste-169676977995777.jpg) #card
+	- pakala  
+	  *n* blunder, accident, mistake, destruction, damage, breaking  
+	  *vt* screw up, fuck up, botch, ruin, break, hurt, injure, damage, spoil, ruin  
+	  *vi* screw up, fall apart, break  
+	  *interj* damn! fuck!  
+- ![image](../assets/paste-171523813933057.jpg) #card
+	- pali  
+	  *n* activity, work, deed, project  
+	  *mod* active, work-related, operating, working  
+	  *vt* do, make, build, create  
+	  *vi* act, work, function  
+- ![image](../assets/paste-173357764968449.jpg) #card
+	- palisa  
+	  *n* long, mostly hard object, e.g. rod, stick, branch  
+- ![image](../assets/paste-175183126069249.jpg) #card
+	- pan  
+	  *n* grain, cereal; barley, corn, oat, rice, wheat; bread, pasta  
+- ![image](../assets/paste-177025667039233.jpg) #card
+	- pana  
+	  *vt* give, put, send, place, release, emit, cause  
+	  *n* giving, transfer, exchange  
+- ![image](../assets/paste-178885387878401.jpg) #card
+	- pi  
+	  *sep* of, belonging to  
+	  to be used for grouping of describing words, not same as English "of" grammar  
+- ![image](../assets/paste-180740813750273.jpg) #card
+	- pilin  
+	  *n* feelings, emotion, heart  
+	  *vi* feel  
+	  *vt* feel, think, sense, touch  
+- ![image](../assets/paste-183193240076289.jpg) #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T22:00:00.000Z
+  card-last-reviewed:: 2024-08-03T10:33:29.969Z
+  card-last-score:: 1
+	- pimeja  
+	  *mod* black, dark  
+	  *n* darkness, shadows  
+	  *vt* darken  
+- ![image](../assets/paste-183824600268801.jpg) #card
+	- pini  
+	  *n* end, tip  
+	  *mod* completed, finished, past, done, ago  
+	  *vt* finish, close, end, turn off  
+- ![image](../assets/paste-185667141238785.jpg) #card
+	- pipi  
+	  *n* bug, insect, spider  
+- ![image](../assets/paste-187492502339585.jpg) #card
+	- poka  
+	  *n* side, hip, next to  
+	  *prep* in the accompaniment of, with  
+	  *mod* neighbouring  
+- ![image](../assets/paste-189412352720897.jpg) #card
+	- poki  
+	  *n* container, bag, bowl, box, cup, cupboard, drawer, vessel  
+- ![image](../assets/paste-190048007880705.jpg) #card
+	- pona  
+	  *n* good, simplicity, positivity  
+	  *mod* good, simple, positive, nice, correct, right  
+	  *interj* great! good! thanks! OK! cool! yay!  
+	  *vt* improve, fix, repair, make good  
+- ![image](../assets/paste-191929203556353.jpg) #card
+	- sama  
+	  *mod* same, similar, equal, of equal status or position  
+	  *prep* like, as, seem  
+- ![image](../assets/paste-193763154591745.jpg) #card
+	- seli  
+	  *n* fire, warmth, heat  
+	  *mod* hot, warm, cooked  
+	  *vt* heat, warm up, cook  
+- ![image](../assets/paste-195601400594433.jpg) #card
+	- selo  
+	  *n* outside, surface, skin, shell, bark, shape, peel, boundary  
+- ![image](../assets/paste-197435351629825.jpg) #card
+	- seme  
+	  *oth* what, which, wh- (question word)  
+- ![image](../assets/paste-198968654954497.jpg) #card
+	- sewi  
+	  *n* high, up, above, top, over, on, highest part, something elevated  
+	  *mod* superior, elevated, religious, formal, awe-inspiring, divine, sacred, supernatural  
+- ![image](../assets/paste-200815490891777.jpg) #card
+	- sijelo  
+	  *n* form, body, physical state  
+- ![image](../assets/paste-201451146051585.jpg) #card
+	- sike  
+	  *n* circle, wheel, sphere, ball, cycle  
+	  *mod* round, cyclical  
+- ![image](../assets/paste-203285097086977.jpg) #card
+	- sin (or namako)  
+	  *n* new thing, food additive, accessory, something extra, spice  
+	  *mod* new, fresh, another, more  
+	  *vt* renew, renovate, freshen, season, embellish, stimulate  
+- ![image](../assets/paste-205720343543809.jpg) #card
+	- sina  
+	  *n* you  
+	  *mod* your  
+- ![image](../assets/paste-207562884513793.jpg) #card
+	- sinpin  
+	  *n* front, chest, torso, face, wall  
+- ![image](../assets/paste-208194244706305.jpg) #card
+	- sitelen  
+	  *n* picture, image, representation, symbol, mark, writing  
+	  *vt* draw, write  
+- ![image](../assets/paste-210028195741697.jpg) #card
+	- sona  
+	  *n* knowledge, wisdom, intelligence, understanding  
+	  *vt* know, understand, know how to  
+	  *vi* know, understand  
+	  *kama* learn, study  
+- ![image](../assets/paste-211883621613569.jpg) #card
+	- soweli  
+	  *n* animal, especially land mammal, lovable animal  
+- ![image](../assets/paste-213721867616257.jpg) #card
+	- suli  
+	  *mod* big, tall, long, adult, important  
+	  *vt* enlarge, lengthen  
+	  *n* size  
+- ![image](../assets/paste-215577293488129.jpg) #card
+	- suno  
+	  *n* sun; light, brightness, glow, radiance, shine; light source  
+- ![image](../assets/paste-217411244523521.jpg) #card
+  card-last-interval:: -1
+  card-repeats:: 1
+  card-ease-factor:: 2.5
+  card-next-schedule:: 2024-08-03T22:00:00.000Z
+  card-last-reviewed:: 2024-08-03T10:30:54.246Z
+  card-last-score:: 1
+	- supa  
+	  *n* horizontal surface, e.g furniture, table, chair, pillow, floor, thing to put or rest something on  
+- ![image](../assets/paste-219859375882241.jpg) #card
+	- suwi  
+	  *n* candy, sweet food  
+	  *mod* sweet, cute, innocent, adorable  
+	  *vt* sweeten  
+- ![image](../assets/paste-221693326917633.jpg) #card
+	- tan  
+	  *prep* from, by, because of, since  
+	  *n* origin, cause  
+- ![image](../assets/paste-223518688018433.jpg) #card
+	- taso  
+	  *mod* only, sole  
+	  *conj* but  
+- ![image](../assets/paste-224150048210945.jpg) #card
+	- tawa  
+	  *prep* to, in order to, towards, for, until  
+	  *vi* go to, walk, travel, move, leave  
+	  *n* movement, transportation  
+	  *mod* moving, mobile  
+	  *vt* move, displace  
+- ![image](../assets/paste-225983999246337.jpg) #card
+	- telo  
+	  *n* water, liquid, juice, sauce  
+	  *vt* water, wash with water  
+	  *noun* liquid, a flowing wet substance; liquid, fluid, water  
+	  *noun* beverage, a liquid for drinking; beverage, drink, water, juice  
+	  *noun* a liquid for washing; water  
+	  *noun* body fluid, a liquid that comes out of the body; blood, milk, saliva, semen, sweat, tears, urine  
+	  *noun* body of water, an area covered with water; bay, strait, sea, lake, river, stream  
+	  *vt* to use telo on; to water, rinse, wash, wet  
+	  *describer* having the characteristics or properties of telo; wet, liquid  
+- ![image](../assets/paste-228423540670465.jpg) #card
+	- tenpo  
+	  *n* time, period of time, moment, duration, situation  
+- ![image](../assets/paste-230270376607745.jpg) #card
+	- toki  
+	  *n* language, talking, speech, communication  
+	  *mod* talking, verbal  
+	  *vt* say  
+	  *vi* talk, chat, communicate  
+	  *interj* hello! hi!  
+	  *vt* to give and receive (e: information) (tawa: with); to communicate  
+	  *vt* to put together (e: thoughts or ideas); to think out  
+- ![image](../assets/paste-232112917577729.jpg) #card
+	- tomo  
+	  *n* indoor constructed space, e.g. house, home, room, building  
+	  *mod* urban, domestic, household  
+	  *noun* shelter  
+	  *noun* building  
+	  *noun* home  
+	  *noun* room  
+	  *noun* designated place  
+- ![image](../assets/paste-233955458547713.jpg) #card
+	- tu  
+	  *mod* two  
+	  *n* duo, pair  
+	  *vt* double, separate/cut/divide in two  
+- ![image](../assets/paste-235815179386881.jpg) #card
+	- unpa  
+	  *n* sex, sexuality  
+	  *mod* erotic, sexual  
+	  *vt* have sex with, sleep with, fuck  
+	  *vi* have sex  
+- ![image](../assets/paste-238241835909121.jpg) #card
+	- uta  
+	  *n* mouth, lips, oral cavity, jaw  
+	  *mod* oral  
+- ![image](../assets/paste-240075786944513.jpg) #card
+	- utala  
+	  *n* conflict, disharmony, competition, fight, war, battle, attack, blow, argument, physical or verbal violence  
+	  *vt* hit, strike, attack, compete against, challenge, fight, struggle  
+- ![image](../assets/paste-241909737979905.jpg) #card
+	- walo  
+	  *mod* white, light (colour)  
+	  *n* white thing or part, whiteness, lightness  
+- ![image](../assets/paste-243769458819073.jpg) #card
+	- wan  
+	  *mod* one, a  
+	  *n* unit, element, particle, part, piece  
+	  *vt* unite, make one  
+- ![image](../assets/paste-245603409854465.jpg) #card
+	- waso  
+	  *n* bird, winged animal  
+- ![image](../assets/paste-247458835726337.jpg) #card
+	- wawa  
+	  *n* energy, strength, power  
+	  *mod* energetic, strong, fierce, intense, sure, confident  
+	  *vt* strengthen, energize, empower  
+	  *describer* intense, strong, fast, loud (of sound) having a high volume or amplitude, confident, sure  
+- ![image](../assets/paste-249305671663617.jpg) #card
+	- weka  
+	  *mod* away, absent, missing  
+	  *n* absence  
+	  *vt* throw away, remove, get rid of  
+- ![image](../assets/paste-251148212633601.jpg) #card
+	- wile  
+	  *vt* to want, need, wish, have to, must, will, should  
+	  *n* desire, need, will  
+	  *mod* necessary  
+- ![image](../assets/C15VuNa.png) #card
+	- kin  
+	  *mod* also, too, even, indeed (emphasizes the word(s) before it)  
+- ![image](../assets/paste-152960965279745.jpg) #card
+	- namako (deprecated)  
+	  *n* food additive, accessory, something extra, spice  
+	  *vt* season, embellish, stimulate  
+- ![image](../assets/paste-165905996709889.jpg) #card
+	- oko (deprecated)  
+	  *n* eye  
+-
